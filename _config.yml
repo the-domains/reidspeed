@@ -1,0 +1,28 @@
+name: reidspeed
+favicon: null
+layout_spectrum: 0.29025534028187394
+typography_spectrum: 0.9021632543299347
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.2623766998294741
+  lightness: 0.6276885373517871
+  saturation: 0.771154718939215
+  rhythmicContrast: 0.37486694171093404
+purpose: []
